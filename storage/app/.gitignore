@@ -1,0 +1,8 @@
+*
+!private/
+!public/
+!entrada/
+!entrada/**
+!relatorios/
+!relatorios/**
+!.gitignore

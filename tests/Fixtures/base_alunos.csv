@@ -1,0 +1,31 @@
+id_aluno;nome_completo;cpf;unidade;turma;ano_matricula
+1001;José Antônio Carvalho;123.456.789-01;Barro Preto;ENEM Extensivo A;2025
+1002;Maria Eduarda dos Santos;234.567.890-12;Contagem;ENEM Extensivo B;2025
+1003;Pedro Henrique Almeida Costa;345.678.901-23;Barro Preto;CEFET Intensivo;2025
+1004;Ana Clara Silva;456.789.012-34;Betim;ENEM Extensivo A;2025
+1005;Ana Clara Silva;567.890.123-45;Contagem;CEFET Extensivo;2025
+1006;Guilherme Rodrigues Fontes;678.901.234-56;Savassi;ENEM Intensivo;2025
+1007;Bruna Ferreira Lima;789.012.345-67;Barro Preto;ENEM Extensivo C;2025
+1008;João Vítor de Paula Andrade;890.123.456-78;Betim;CEFET Intensivo;2025
+1009;Larissa Gonçalves Moreira;901.234.567-89;Savassi;ENEM Extensivo A;2025
+1010;Rafael Augusto Nunes;012.345.678-90;Contagem;ENEM Extensivo B;2025
+1011;Isabela Cristina Rocha Martins;111.222.333-44;Barro Preto;ENEM Extensivo A;2025
+1012;Thiago Henrique Barbosa;222.333.444-55;Betim;CEFET Extensivo;2025
+1013;Camila Aparecida de Souza;333.444.555-66;Savassi;ENEM Intensivo;2025
+1014;Gabriel dos Reis Fonseca;444.555.666-77;Contagem;ENEM Extensivo C;2025
+1015;Letícia Mendes Pereira;555.666.777-88;Barro Preto;ENEM Extensivo B;2025
+1016;Vinícius Alves de Oliveira;666.777.888-99;Betim;CEFET Intensivo;2025
+1017;Fernanda Cristina Lopes;777.888.999-00;Savassi;ENEM Extensivo A;2025
+1018;Matheus Cardoso Ribeiro;888.999.000-11;Contagem;ENEM Extensivo A;2025
+1019;Júlia Beatriz Xavier Campos;999.000.111-22;Barro Preto;ENEM Intensivo;2025
+1020;André Luís Teixeira Ramos;121.232.343-45;Betim;CEFET Extensivo;2025
+1021;Amanda Vieira dos Santos Silva;131.242.353-46;Savassi;ENEM Extensivo B;2025
+1022;Lucas Gabriel Freitas Diniz;141.252.363-47;Contagem;ENEM Extensivo C;2025
+1023;Beatriz Antunes de Carvalho;151.262.373-48;Barro Preto;ENEM Extensivo A;2025
+1024;Renato Silva Guimarães;161.272.383-49;Betim;ENEM Intensivo;2025
+1025;Sofia Miranda Duarte;171.282.393-50;Savassi;CEFET Intensivo;2025
+1026;Caio César Prado Machado;181.292.303-51;Contagem;ENEM Extensivo B;2025
+1027;Marina Fagundes Correia;191.202.313-52;Barro Preto;ENEM Extensivo C;2025
+1028;Eduardo Pacheco de Assis;101.212.323-53;Betim;CEFET Extensivo;2025
+1029;Yasmin Oliveira Braga;112.223.334-54;Savassi;ENEM Extensivo A;2025
+1030;Davi Lucca Fernandes Pinto;122.233.344-55;Contagem;ENEM Intensivo;2025

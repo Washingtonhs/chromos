@@ -1,0 +1,25 @@
+aprovado_nome;instituicao;curso;modalidade;nivel_confianca;pontuacao;aluno_id;aluno_nome;unidade;turma;motivo;candidatos_alternativos
+"Juliana Beatriz Xavier Campos";UFMG;Jornalismo;"Ampla Concorrência";ambigua;58;;;;;"similaridade insuficiente para confirmar com segurança, exige revisão humana";"[{""nome"":""Júlia Beatriz Xavier Campos"",""aluno_id"":19,""pontuacao"":58}]"
+"Marcela Fagundes Correia";UFMG;Química;"Ampla Concorrência";ambigua;58;;;;;"similaridade insuficiente para confirmar com segurança, exige revisão humana";"[{""nome"":""Marina Fagundes Correia"",""aluno_id"":27,""pontuacao"":58}]"
+"Pedro H. Almeida Costa";CEFET-MG;"Engenharia de Computação";"Ampla Concorrência";provavel;84;1003;"Pedro Henrique Almeida Costa";"Barro Preto";"CEFET Intensivo";"nome muito similar (abreviação, partícula ou nome do meio ausente), sem CPF para confirmar com certeza";
+"Guilerme Rodrigues Fontes";IFMG;"Análise e Desenvolvimento de Sistemas";"Ampla Concorrência";provavel;81;1006;"Guilherme Rodrigues Fontes";Savassi;"ENEM Intensivo";"nome muito similar (abreviação, partícula ou nome do meio ausente), sem CPF para confirmar com certeza";
+"Rafael Nunes";UFMG;"Ciência da Computação";"Ampla Concorrência";provavel;78;1010;"Rafael Augusto Nunes";Contagem;"ENEM Extensivo B";"nome muito similar (abreviação, partícula ou nome do meio ausente), sem CPF para confirmar com certeza";
+"Pedro Henrique Costa";IFMG;"Sistemas de Informação";"Ampla Concorrência";provavel;85;1003;"Pedro Henrique Almeida Costa";"Barro Preto";"CEFET Intensivo";"nome muito similar (abreviação, partícula ou nome do meio ausente), sem CPF para confirmar com certeza";
+"JOSE ANTONIO CARVALHO";UFMG;Medicina;"Ampla Concorrência";exata;100;1001;"José Antônio Carvalho";"Barro Preto";"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Maria Eduarda Santos";UFMG;Direito;"Ampla Concorrência";exata;100;1002;"Maria Eduarda dos Santos";Contagem;"ENEM Extensivo B";"nome idêntico após normalização e/ou CPF confirma";
+"Ana Clara Silva";UFMG;Psicologia;"Cota Escola Pública";exata;100;1004;"Ana Clara Silva";Betim;"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Bruna  Ferreira Lima";UFMG;Odontologia;"Ampla Concorrência";exata;100;1007;"Bruna Ferreira Lima";"Barro Preto";"ENEM Extensivo C";"nome idêntico após normalização e/ou CPF confirma";
+"João Vitor de Paula Andrade";CEFET-MG;"Engenharia Mecânica";"Cota Escola Pública";exata;85;1008;"João Vítor de Paula Andrade";Betim;"CEFET Intensivo";"nome idêntico após normalização e/ou CPF confirma";
+"LARISSA GONCALVES MOREIRA";UFOP;Farmácia;"Ampla Concorrência";exata;100;1009;"Larissa Gonçalves Moreira";Savassi;"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Isabela Cristina Rocha Martins";UFMG;"Arquitetura e Urbanismo";"Ampla Concorrência";exata;100;1011;"Isabela Cristina Rocha Martins";"Barro Preto";"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Thiago Henrique Barbosa";CEFET-MG;"Engenharia Elétrica";"Ampla Concorrência";exata;85;1012;"Thiago Henrique Barbosa";Betim;"CEFET Extensivo";"nome idêntico após normalização e/ou CPF confirma";
+"Camila Aparecida Souza";UFV;Nutrição;"Cota Escola Pública";exata;100;1013;"Camila Aparecida de Souza";Savassi;"ENEM Intensivo";"nome idêntico após normalização e/ou CPF confirma";
+"Gabriel Reis Fonseca";UFMG;"Engenharia Civil";"Ampla Concorrência";exata;85;1014;"Gabriel dos Reis Fonseca";Contagem;"ENEM Extensivo C";"nome idêntico após normalização e/ou CPF confirma";
+"Leticia Mendes Pereira";UFJF;Fisioterapia;"Ampla Concorrência";exata;100;1015;"Letícia Mendes Pereira";"Barro Preto";"ENEM Extensivo B";"nome idêntico após normalização e/ou CPF confirma";
+"VINICIUS ALVES DE OLIVEIRA";CEFET-MG;"Engenharia de Produção Civil";"Ampla Concorrência";exata;85;1016;"Vinícius Alves de Oliveira";Betim;"CEFET Intensivo";"nome idêntico após normalização e/ou CPF confirma";
+"Fernanda C. Lopes";UFMG;Enfermagem;"Cota Escola Pública";exata;99;1017;"Fernanda Cristina Lopes";Savassi;"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Andre Luis Teixeira Ramos";COLTEC;"Técnico em Informática";"Ampla Concorrência";exata;100;1020;"André Luís Teixeira Ramos";Betim;"CEFET Extensivo";"nome idêntico após normalização e/ou CPF confirma";
+"Amanda Vieira Santos Silva";UFMG;Fonoaudiologia;"Cota Escola Pública";exata;85;1021;"Amanda Vieira dos Santos Silva";Savassi;"ENEM Extensivo B";"nome idêntico após normalização e/ou CPF confirma";
+"Beatriz Antunes Carvalho";UFLA;"Medicina Veterinária";"Ampla Concorrência";exata;100;1023;"Beatriz Antunes de Carvalho";"Barro Preto";"ENEM Extensivo A";"nome idêntico após normalização e/ou CPF confirma";
+"Sofia Miranda Duarte";CEFET-MG;"Técnico em Eletrônica";"Ampla Concorrência";exata;100;1025;"Sofia Miranda Duarte";Savassi;"CEFET Intensivo";"nome idêntico após normalização e/ou CPF confirma";
+"Lucas Oliveira Souza";UFMG;Administração;"Ampla Concorrência";sem_correspondencia;0;;;;;"nenhum candidato plausível encontrado na base";
